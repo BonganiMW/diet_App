@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793343546367",
+    "project_id": "diet-app-2",
+    "storage_bucket": "diet-app-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793343546367:android:9cc5d9db7bc6fb9c000dca",
+        "android_client_info": {
+          "package_name": "com.wassabi.diet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793343546367-st6e04r3dsl71f1na5etuuc8gpv8gsnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2_4y3Xchm511imA7y7NNxOBcmO8ST7Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793343546367-st6e04r3dsl71f1na5etuuc8gpv8gsnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
