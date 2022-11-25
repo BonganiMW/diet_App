@@ -66,7 +66,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '793343546367',
     projectId: 'diet-app-2',
     storageBucket: 'diet-app-2.appspot.com',
-    iosClientId: '793343546367-94snaho7thhg6v3vu1cjng0i8ev6pikn.apps.googleusercontent.com',
+    iosClientId:
+        '793343546367-94snaho7thhg6v3vu1cjng0i8ev6pikn.apps.googleusercontent.com',
     iosBundleId: 'com.wassabi.dietApp',
   );
 
@@ -76,7 +77,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '793343546367',
     projectId: 'diet-app-2',
     storageBucket: 'diet-app-2.appspot.com',
-    iosClientId: '793343546367-94snaho7thhg6v3vu1cjng0i8ev6pikn.apps.googleusercontent.com',
+    iosClientId:
+        '793343546367-94snaho7thhg6v3vu1cjng0i8ev6pikn.apps.googleusercontent.com',
     iosBundleId: 'com.wassabi.dietApp',
   );
 }

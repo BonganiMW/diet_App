@@ -46,25 +46,16 @@ class _SignInState extends State<SignIn> {
     return Scaffold(
       body: Stack(
         fit: StackFit.expand,
-        children: <Widget>[
+        children: [
           Container(
-            // ignore: prefer_const_constructors
-            decoration: BoxDecoration(
-                // ignore: prefer_const_constructors
-                image: DecorationImage(
-                    image: const AssetImage("assets/land.jpg"),
-                    // ignore: prefer_const_constructors
-                    colorFilter: ColorFilter.mode(
-                      Colors.blueGrey,
-                      BlendMode.modulate,
-                    )),
+            decoration: const BoxDecoration(
                 color: Colors.blueGrey),
           ),
           Center(
             child: SingleChildScrollView(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: <Widget>[
+                children: [
                   const Image(
                     image: AssetImage('assets/LOGO.png'),
                     width: 150,
